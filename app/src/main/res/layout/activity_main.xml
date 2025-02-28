@@ -19,6 +19,7 @@
         android:layout_marginBottom="633dp"
         android:src="@drawable/sun" />
 
+
     <EditText
         android:id="@+id/etName"
         android:layout_width="wrap_content"
